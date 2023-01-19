@@ -2,7 +2,7 @@
 
 <ul>
     <li> desiner responsivo com Bootstrap</li>
-    <li> grid e flaxbox </li>
+    <li> grid e flexbox </li>
 </ul>
 
 
